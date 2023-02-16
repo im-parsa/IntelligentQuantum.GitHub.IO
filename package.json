@@ -15,6 +15,7 @@
         "start": "NODE_ENV=production node server.js",
         "start:next": "next start",
         "minify:images": "rm -r ./public/static/images/* && node images-minifier.js",
+        "minify:images:win": "rmdir /s C:\\Users\\im-parsa\\Documents\\GitHub\\im-parsa.github.io\\public\\static\\images && node images-minifier.js",
         "lint": "eslint --ext .js,.jsx,.ts,.tsx ./src",
         "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx ./src",
         "lint:scss": "stylelint \"src/styles/**/*.scss\" --custom-syntax postcss-scss",
@@ -61,7 +62,7 @@
         "validator": "^13.7.0"
     },
     "devDependencies": {
-	"@next/eslint-plugin-next": "^12.2.3",
+        "@next/eslint-plugin-next": "^12.2.3",
         "@svgr/webpack": "^6.2.1",
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",
