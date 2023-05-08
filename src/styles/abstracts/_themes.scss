@@ -49,6 +49,14 @@ html[data-theme="matrix"]
             rgb(11 11 11 / 95%) 80%
         ),
         url("../../../public/static/images/hobbies/background-ig.jpg");
+    --base-gradiant-image-book:
+        radial-gradient(
+                rgb(0 0 0 / 70%) 0%,
+                rgb(0 0 0 / 80%) 10%,
+                rgb(0 0 0 / 90%) 50%,
+                rgb(11 11 11 / 95%) 80%
+        ),
+        url("../../../public/static/images/hobbies/background-book.jpg");
     --base-gradiant-image-discord:
         radial-gradient(
             rgb(0 0 0 / 70%) 0%,
@@ -157,6 +165,14 @@ html[data-theme="dim"]
             rgb(43 43 57 / 95%) 80%
         ),
         url("../../../public/static/images/hobbies/background-ig.jpg");
+    --base-gradiant-image-book:
+        radial-gradient(
+                rgb(45 50 62 / 70%) 0%,
+                rgb(46 46 57 / 80%) 10%,
+                rgb(46 46 57 / 90%) 50%,
+                rgb(43 43 57 / 95%) 80%
+        ),
+        url("../../../public/static/images/hobbies/background-book.jpg");
     --base-gradiant-image-movie:
         radial-gradient(
                 rgb(45 50 62 / 70%) 0%,
@@ -271,6 +287,11 @@ html[data-theme="light"]
         (rgb(209 212 226 / 80%) 0%, rgb(226 227 234 / 80%) 10%,
         rgb(220 223 231 / 80%) 50%, rgb(214 217 227 / 80%) 80%),
         url("../../../public/static/images/hobbies/background-ig.jpg");
+    --base-gradiant-image-book:
+        radial-gradient
+            (rgb(209 212 226 / 80%) 0%, rgb(226 227 234 / 80%) 10%,
+            rgb(220 223 231 / 80%) 50%, rgb(214 217 227 / 80%) 80%),
+        url("../../../public/static/images/hobbies/background-book.jpg");
     --base-gradiant-image-discord:
         radial-gradient(
             rgb(188 193 203 / 80%) 0%,

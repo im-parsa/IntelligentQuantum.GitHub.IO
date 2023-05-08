@@ -61,6 +61,11 @@
                 background-image: var(--base-gradiant-image-football);
             }
 
+            &[data-fact_type="book"]::before
+            {
+                background-image: var(--base-gradiant-image-book);
+            }
+
             &[data-fact_type="instagram"]::before
             {
                 background-image: var(--base-gradiant-image-instagram);

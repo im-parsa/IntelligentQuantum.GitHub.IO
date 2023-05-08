@@ -153,7 +153,7 @@
             "Get in Touch",
             "Hobbies",
             "Blogs",
-            "Portfolio",
+            "Projects",
             "Github Repositories",
             "About me"
         ],
@@ -227,7 +227,13 @@
                 "id": 3,
                 "title": "Music",
                 "type": "music",
-                "description": "An arrangement of sounds having melody, rhythm, and usually harmony. I think music is the most beautiful human art. Music has always been relaxing for me and I get a lot of energy with faster rhythms.\nWhen working, nothing is more effective than a good music and I always have a music playing in the background because it makes me feel so good. Finally, I must say that my favorite singer is <a href=\"https://open.spotify.com/artist/3IDPcBP4OoTNvm3b4h46cW?si=0567ba04bc374c65\" target=\"_blank\">Shadmehr Aghili</a> and my favorite music is the song KOOH_PLAYER by Shadmehr Aghili."
+                "description": "An arrangement of sounds having melody, rhythm, and usually harmony. I think music is the most beautiful human art. Music has always been relaxing for me and I get a lot of energy with faster rhythms.\nWhen working, nothing is more effective than a good music and I always have a music playing in the background because it makes me feel so good. Finally, I must say that my favorite singer is Shadmehr Aghili and my favorite music is the song KOOH_PLAYER by Shadmehr Aghili."
+            },
+            {
+                "id": 9,
+                "title": "Book",
+                "type": "book",
+                "description": "In my free time I very often read books. My favorite authors are Colleen Hoover and James Clear who have written wonderful books and have won several awards. I love self-help books and my favorite is Limitless by Jim Kwik."
             },
             {
                 "id": 4,
@@ -623,7 +629,7 @@
             "In Kontakt Kommen",
             "Hobbys",
             "Blogs",
-            "Portfolio",
+            "Projekte",
             "Github Lagerstätten",
             "Über mich"
         ],
@@ -697,7 +703,13 @@
                 "id": 3,
                 "title": "Musik",
                 "type": "music",
-                "description": "Eine Anordnung von Klängen mit Melodie, Rhythmus und normalerweise Harmonie. Ich denke, Musik ist die schönste menschliche Kunst. Musik war für mich schon immer entspannend und ich bekomme viel Energie mit schnelleren Rhythmen. Bei der Arbeit ist nichts effektiver als gute Musik und ich habe immer eine Musik im Hintergrund, weil es mir so gut tut. Abschließend muss ich sagen, dass mein Lieblingssänger <a href=\"https://open.spotify.com/artist/3IDPcBP4OoTNvm3b4h46cW?si=0567ba04bc374c65\" target=\"_blank\">Shadmehr Aghili</a> ist und meine Lieblingsmusik das Lied KOOH_PLAYER von Shadmehr Aghili ist."
+                "description": "Eine Anordnung von Klängen mit Melodie, Rhythmus und normalerweise Harmonie. Ich denke, Musik ist die schönste menschliche Kunst. Musik war für mich schon immer entspannend und ich bekomme viel Energie mit schnelleren Rhythmen. Bei der Arbeit ist nichts effektiver als gute Musik und ich habe immer eine Musik im Hintergrund, weil es mir so gut tut. Abschließend muss ich sagen, dass mein Lieblingssänger Shadmehr Aghili ist und meine Lieblingsmusik das Lied KOOH_PLAYER von Shadmehr Aghili ist."
+            },
+            {
+                "id": 9,
+                "title": "Buck",
+                "type": "book",
+                "description": "In meiner Freizeit lese ich sehr oft Bücher. Meine Lieblingsautoren sind Colleen Hoover und James Clear, die wunderbare Bücher geschrieben und mehrere Preise gewonnen haben. Ich liebe Selbsthilfebücher und mein Favorit ist Limitless von Jim Kwik."
             },
             {
                 "id": 4,
@@ -1157,7 +1169,13 @@
                 "id": 3,
                 "title": "موسیقی",
                 "type": "music",
-                "description": "بنظر من موسیقی زیبا ترین هنر انسان است. موسیقی همیشه برای من آرامش بخش بوده و هست و با ریتم های سریع تر انرژی زیادی میگیرم.\nدر هنگام کار هیچ چیز اندازه یک موسیقی خوب تاثیرگذار نیست و من همیشه یک موسیقی در بک گراندم در حال اجرا میگذارم چون حس خیلی خوبی بهم میده. در آخر باید بگم خواننده مورد علاقه من <a href=\"https://open.spotify.com/artist/3IDPcBP4OoTNvm3b4h46cW?si=0567ba04bc374c65\" target=\"_blank\">شادمهر عقیلی</a> و موزیک مورد علاقم آهنگ KOOH_PLAYER از شادمهر عقیلی هست."
+                "description": "بنظر من موسیقی زیبا ترین هنر انسان است. موسیقی همیشه برای من آرامش بخش بوده و هست و با ریتم های سریع تر انرژی زیادی میگیرم.\nدر هنگام کار هیچ چیز اندازه یک موسیقی خوب تاثیرگذار نیست و من همیشه یک موسیقی در بک گراندم در حال اجرا میگذارم چون حس خیلی خوبی بهم میده. در آخر باید بگم خواننده مورد علاقه من شادمهر عقیلی و موزیک مورد علاقم آهنگ KOOH_PLAYER از شادمهر عقیلی هست."
+            },
+            {
+                "id": 9,
+                "title": "کتاب",
+                "type": "book",
+                "description": "در اوقات فراغتم اغلب کتاب می خوانم. نویسندگان مورد علاقه من کالین هوور و جیمز کلیر هستند که کتاب های فوق العاده ای نوشته اند و جوایز متعددی را برنده شده اند. من عاشق کتاب های خودیاری هستم و مورد علاقه من Limitless نوشته جیم کویک است."
             },
             {
                 "id": 4,
