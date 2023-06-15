@@ -8,17 +8,17 @@
         "my_skills":
         [
             "Full-Stack Developer",
-            "Graphic Designer"
+            "Web3 Product Manager"
         ],
         "header":
         {
             "titles":
             [
-                "Parsa Firoozi — Full-Stack Developer & Graphic Designer"
+                "Parsa Firoozi — Full-Stack Developer & Web3 Product Manager"
             ],
             "descriptions":
             [
-                "Parsa Firoozi Full-Stack Developer & Graphic Designer. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."
+                "Parsa Firoozi Full-Stack Developer & Web3 Product Manager. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."
             ]
         },
         "currency": "$",
@@ -29,7 +29,8 @@
             "I build RESTful API's.",
             "I am running full node blockchain core.",
             "I develop exchange and wallet applications.",
-            "I build games with Unreal, Three.js and Unity engines."
+            "I build games with Unreal, Three.js and Unity engines.",
+            "I manage web3 products."
         ],
         "technologies":
         {

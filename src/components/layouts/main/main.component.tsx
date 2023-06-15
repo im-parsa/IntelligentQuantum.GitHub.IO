@@ -134,11 +134,11 @@ const Main = ({ children }: Props) =>
             <Navbar mobile={ true }/>
             <Navbar />
             <main className={stylesMain.main}>
-                <Link href='/blogs/mahsa_amini' legacyBehavior>
-                    <a className={stylesAlert.alert}>
-                        { content.alert }
-                    </a>
-                </Link>
+                {/*<Link href='/blogs/mahsa_amini' legacyBehavior>*/}
+                {/*    <a className={stylesAlert.alert}>*/}
+                {/*        { content.alert }*/}
+                {/*    </a>*/}
+                {/*</Link>*/}
                 <div className={stylesMain.mainContent}>
                     <span className={stylesMain.mainBackground}/>
                     { children }

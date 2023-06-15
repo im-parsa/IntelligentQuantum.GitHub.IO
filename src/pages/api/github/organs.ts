@@ -29,7 +29,7 @@ const Organs = async(request: NextApiRequest, response: NextApiResponse) =>
         {
             try
             {
-                await limiter.check(response, 10, 'CACHE_TOKEN');
+                await limiter.check(response, 100, 'CACHE_TOKEN');
 
                 const { data } = await axios.get(
                     'https://api.github.com/users/im-parsa/orgs',

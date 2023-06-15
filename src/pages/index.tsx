@@ -236,7 +236,7 @@ const Home = ({ repositories, organizations }: Props) =>
     );
 };
 
-export async function getStaticProps()
+export async function getServerSideProps()
 {
     try
     {
@@ -247,16 +247,15 @@ export async function getStaticProps()
         const { items: organizations } = await organizationService.GET();
 
         if (!repositories || !organizations)
-            return { props: { repositories: github.repos, organizations: github.orgs }};
+            return { props: { title: 'Index Page - Nor Found', repositories: github.repos, organizations: github.orgs }};
 
         return {
-            props: { repositories, organizations },
-            revalidate: 86400
+            props: { title: 'Index Page', repositories, organizations }
         };
     }
     catch (error)
     {
-        return { props: { repositories: [], organizations: [] }};
+        return { title: 'Index Page - Error', props: { repositories: [], organizations: [] }};
     }
 }
 
