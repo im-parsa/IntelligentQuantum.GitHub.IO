@@ -8,7 +8,20 @@ export class OrganizationService
     {
         try
         {
-            const { data } = await axios.get('https://api.github.com/users/im-parsa/orgs');
+            const { data } = await axios({
+                method: 'get',
+                url: 'https://api.github.com/users/im-parsa/orgs',
+                headers:
+                    {
+                        Authorization: 'Bearer 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',
+                        'Content-Type': 'application/json'
+                    },
+                auth:
+                    {
+                        username: 'im-parsa',
+                        password: '@Parsa89'
+                    }
+            });
 
             return {
                 items:

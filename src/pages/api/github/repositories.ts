@@ -29,7 +29,7 @@ const Repositories = async(request: NextApiRequest, response: NextApiResponse) =
         {
             try
             {
-                await limiter.check(response, 10, 'CACHE_TOKEN');
+                await limiter.check(response, 100, 'CACHE_TOKEN');
 
                 const { items } = await repositoryService.GET();
 
