@@ -25,7 +25,7 @@ import stylesHobbies from '../../styles/pages/hobbies.module.scss';
 import data from '../../../public/static/data/data.json';
 
 const TooltipFootball = dynamic(() => import('./tooltip-football.component'));
-const TooltipPrimary = dynamic(() => import('../tooltip/tooltip-primary.component'));
+const TooltipPrimary = dynamic(() => import('../tooltips/tooltip-primary.component'));
 
 type Props =
     {

@@ -13,13 +13,13 @@ export class OrganizationService
                 url: 'https://api.github.com/users/im-parsa/orgs',
                 headers:
                     {
-                        Authorization: 'Bearer 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',
+                        Authorization: `Bearer ${ process.env.MONGODB_URI }`,
                         'Content-Type': 'application/json'
                     },
                 auth:
                     {
-                        username: 'im-parsa',
-                        password: '@Parsa89'
+                        username: process.env.GITHUB_USERNAME || '',
+                        password: process.env.GITHUB_PASSWORD || ''
                     }
             });
 
