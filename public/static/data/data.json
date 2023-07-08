@@ -383,7 +383,7 @@
                 "title": "Skyro",
                 "tag": "web_development",
                 "description": "Skyro Travel Service Agency is always up-to-date and progressive. We made a pact to make your travel experience pleasant and beautiful.",
-                "link": "https://github.com/skyro-ir",
+                "link": "https://skyro.ir",
                 "image": "/static/images/projects/web-skyro.png"
             },
             {
@@ -391,8 +391,16 @@
                 "title": "Infinity RP",
                 "tag": "web_development",
                 "description": "The Infinity Roleplay server is one of the newest and best RP servers in Iran at the moment, which is managed by experienced people on the FiveM platform.",
-                "link": "https://infinity-tm.net",
+                "link": "https://infinityrp.ir",
                 "image": "/static/images/projects/web-infinity.png"
+            },
+            {
+                "id": 82,
+                "title": "Papelo",
+                "tag": "web_development",
+                "description": "The open source project Papelo is a complete website with blog, shop, landing and about us pages.",
+                "link": "https://github.com/im-parsa/Papelo-Client",
+                "image": "/static/images/projects/web-papelo.png"
             },
             {
                 "id": 10,
@@ -409,6 +417,14 @@
                 "description": "With dnsChanger-desktop you can change your PC's DNS and visit banned sites from within the country.",
                 "link": "https://dnschanger.github.io",
                 "image": "/static/images/projects/app-dns-changer.png"
+            },
+            {
+                "id": 192,
+                "title": "DNS Changer Website",
+                "tag": "web_development",
+                "description": "With dnsChanger-desktop you can change your PC's DNS and visit banned sites from within the country.",
+                "link": "https://dnschanger.github.io",
+                "image": "/static/images/projects/web-dns-changer.png"
             },
             {
                 "id": 11,
@@ -859,7 +875,7 @@
                 "title": "Skyro",
                 "tag": "web_development",
                 "description": "Skyro Travel Service Agency ist immer aktuell und fortschrittlich. Wir haben einen Pakt geschlossen, um Ihr Reiseerlebnis angenehm und schön zu gestalten.",
-                "link": "https://github.com/skyro-ir",
+                "link": "https://skyro.ir",
                 "image": "/static/images/projects/web-skyro.png"
             },
             {
@@ -867,8 +883,16 @@
                 "title": "Infinity RP",
                 "tag": "web_development",
                 "description": "Der Infinity Roleplay-Server ist derzeit einer der neuesten und besten RP-Server im Iran, der von erfahrenen Personen auf der FiveM-Plattform verwaltet wird.",
-                "link": "https://infinity-tm.net",
+                "link": "https://infinityrp.ir",
                 "image": "/static/images/projects/web-infinity.png"
+            },
+            {
+                "id": 82,
+                "title": "Papelo",
+                "tag": "web_development",
+                "description": "Das Open-Source-Projekt Papelo ist eine komplette Website mit Blog-, Shop-, Landing- und Über-uns-Seiten.",
+                "link": "https://github.com/im-parsa/Papelo-Client",
+                "image": "/static/images/projects/web-papelo.png"
             },
             {
                 "id": 10,
@@ -885,6 +909,14 @@
                 "description": "Mit dnsChanger-desktop können Sie den DNS Ihres PCs ändern und gesperrte Seiten innerhalb des Landes besuchen.",
                 "link": "https://dnschanger.github.io",
                 "image": "/static/images/projects/app-dns-changer.png"
+            },
+            {
+                "id": 192,
+                "title": "DNS Changer Website",
+                "tag": "web_development",
+                "description": "Mit dnsChanger-desktop können Sie den DNS Ihres PCs ändern und gesperrte Seiten innerhalb des Landes besuchen.",
+                "link": "https://dnschanger.github.io",
+                "image": "/static/images/projects/web-dns-changer.png"
             },
             {
                 "id": 11,
@@ -1325,7 +1357,7 @@
                 "title": "Skyro",
                 "tag": "web_development",
                 "description": "آژانس خدمات مسافرتی اسکایرو همیشه به روز و پیشرو است. ما پیمان بسته ایم تا تجربه سفر شما را دلپذیر و زیبا کنیم.",
-                "link": "https://github.com/skyro-ir",
+                "link": "https://skyro.ir",
                 "image": "/static/images/projects/web-skyro.png"
             },
             {
@@ -1333,8 +1365,16 @@
                 "title": "Infinity RP",
                 "tag": "web_development",
                 "description": "سرور Infinity Roleplay یکی از جدیدترین و بهترین سرورهای RP در حال حاضر ایران است که توسط افراد مجرب در پلتفرم FiveM مدیریت می شود.",
-                "link": "https://infinity-tm.net",
+                "link": "https://infinityrp.ir",
                 "image": "/static/images/projects/web-infinity.png"
+            },
+            {
+                "id": 82,
+                "title": "Papelo",
+                "tag": "web_development",
+                "description": "پروژه اوپن‌سورس پاپلو یک وبسایت کامل دارای صفحات بلاگ، فروشگاه، لندینگ و درباره‌ما.",
+                "link": "https://github.com/im-parsa/Papelo-Client",
+                "image": "/static/images/projects/web-papelo.png"
             },
             {
                 "id": 10,
@@ -1351,6 +1391,14 @@
                 "description": "با dnsChanger-desktop می\u200Cتوانید DNS رایانه شخصی خود را تغییر داده و از سایت\u200Cهای تحریم شده از داخل کشور بازدید کنید.",
                 "link": "https://dnschanger.github.io",
                 "image": "/static/images/projects/app-dns-changer.png"
+            },
+            {
+                "id": 192,
+                "title": "DNS Changer Website",
+                "tag": "web_development",
+                "description": "با dnsChanger-desktop می\u200Cتوانید DNS رایانه شخصی خود را تغییر داده و از سایت\u200Cهای تحریم شده از داخل کشور بازدید کنید.",
+                "link": "https://dnschanger.github.io",
+                "image": "/static/images/projects/web-dns-changer.png"
             },
             {
                 "id": 11,

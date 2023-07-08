@@ -13,13 +13,13 @@ export class RepositoryService
                 url: 'https://api.github.com/users/im-parsa/repos',
                 headers:
                     {
-                        Authorization: 'Bearer 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',
+                        Authorization: `Bearer ${ process.env.MONGODB_URI }`,
                         'Content-Type': 'application/json'
                     },
                 auth:
                     {
-                        username: 'im-parsa',
-                        password: '@Parsa89'
+                        username: process.env.GITHUB_USERNAME || '',
+                        password: process.env.GITHUB_PASSWORD || ''
                     }
             });
 
@@ -29,7 +29,7 @@ export class RepositoryService
                         ...data
                             .filter((repo: IRepository) =>
                             {
-                                return repo?.stargazers_count >= 10;
+                                return repo?.stargazers_count >= 5;
                             })
                             .sort((firstRepo: IRepository, secondRepo: IRepository) =>
                             {
