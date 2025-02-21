@@ -64,9 +64,6 @@ const Projects = () =>
                         <ItemMotion index={ 3 } active={category === 'robot_development'} onClick={() => setCategory('robot_development')}>
                             { content.categories[3] }
                         </ItemMotion>
-                        <ItemMotion index={ 4 } active={category === 'graphic_design'} onClick={() => setCategory('graphic_design')}>
-                            { content.categories[4] }
-                        </ItemMotion>
                     </ul>
                 </ScrollMotion>
 

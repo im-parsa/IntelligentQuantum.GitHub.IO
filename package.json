@@ -1,6 +1,6 @@
 {
     "name": "im-parsa.github.io",
-    "version": "3.4.8",
+    "version": "3.5.0",
     "homepage": "https://parsa-firoozi.ir/",
     "author": {
         "email": "contact@parsa-firoozi.ir",
@@ -15,7 +15,7 @@
         "start": "NODE_ENV=production node server.js",
         "start:next": "next start",
         "minify:images": "rm -r ./public/static/images/* && node images-minifier.js",
-        "minify:images:win": "rmdir /s C:\\Users\\im-parsa\\Documents\\GitHub\\im-parsa.github.io\\public\\static\\images && node images-minifier.js",
+        "minify:images:win": "rmdir /s /q .\\\\public\\\\static\\\\images && mkdir .\\\\public\\\\static\\\\images && node images-minifier.js",
         "lint": "eslint --ext .js,.jsx,.ts,.tsx ./src",
         "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx ./src",
         "lint:scss": "stylelint \"src/styles/**/*.scss\" --custom-syntax postcss-scss",

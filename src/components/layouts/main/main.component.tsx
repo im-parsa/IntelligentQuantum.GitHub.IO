@@ -60,7 +60,7 @@ const Main = ({ children }: Props) =>
     return (
         <Fragment>
             <Head>
-                <title>Parsa Firoozi &mdash; Full-Stack Developer & Graphic Designer</title>
+                <title>Parsa Firoozi &mdash; Full Stack Developer & Product Manager</title>
 
                 <meta charSet='UTF-8' />
 
@@ -73,9 +73,9 @@ const Main = ({ children }: Props) =>
 
                 <meta name='language' content={ content.language }/>
                 <meta name='Classification' content='Portfolio'/>
-                <meta name='subject' content='Parsa Firoozi Full-Stack Developer & Graphic Designer'/>
-                <meta name='description' content='Parsa Firoozi Full-Stack Developer & Graphic Designer'/>
-                <meta name='keywords' content='im-parsa, Parsa Firoozi, Parsa, Firoozi, Portfolio, Full-Stack Developer, Graphic Designer'/>
+                <meta name='subject' content='Parsa Firoozi - Full Stack Developer & Product Manager'/>
+                <meta name='description' content='Parsa Firoozi - Full Stack Developer & Product Manager'/>
+                <meta name='keywords' content='im-parsa, Parsa Firoozi, Parsa, Firoozi, Portfolio, Full Stack Developer, Graphic Designer, Product Manager'/>
                 <meta name='author' content='Parsa Firoozi'/>
                 <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
 
@@ -84,13 +84,13 @@ const Main = ({ children }: Props) =>
                 <meta property='og:type' content='website'/>
                 <meta property='og:url' content='https://parsa-firoozi.ir/'/>
                 <meta property='og:title' content='Parsa Firoozi'/>
-                <meta property='og:description' content='Parsa Firoozi Full-Stack Developer & Graphic Designer'/>
+                <meta property='og:description' content='Parsa Firoozi - Full Stack Developer & Product Manager'/>
                 <meta property='og:image' content='https://parsa-firoozi.ir/static/images/favicon.png'/>
 
                 <meta property='twitter:card'/>
                 <meta property='twitter:url' content='https://parsa-firoozi.ir/'/>
                 <meta property='twitter:title' content='Parsa Firoozi'/>
-                <meta property='twitter:description' content='Parsa Firoozi Full-Stack Developer & Graphic Designer'/>
+                <meta property='twitter:description' content='Parsa Firoozi - Full Stack Developer & Product Manager'/>
                 <meta property='twitter:image' content='https://parsa-firoozi.ir/static/images/favicon.png'/>
             </Head>
             {
@@ -134,11 +134,6 @@ const Main = ({ children }: Props) =>
             <Navbar mobile={ true }/>
             <Navbar />
             <main className={stylesMain.main}>
-                {/*<Link href='/blogs/mahsa_amini' legacyBehavior>*/}
-                {/*    <a className={stylesAlert.alert}>*/}
-                {/*        { content.alert }*/}
-                {/*    </a>*/}
-                {/*</Link>*/}
                 <div className={stylesMain.mainContent}>
                     <span className={stylesMain.mainBackground}/>
                     { children }

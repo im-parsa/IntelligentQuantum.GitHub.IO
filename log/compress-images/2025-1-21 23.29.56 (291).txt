@@ -1,0 +1,8 @@
+File from: [images/profile.jpg]
+
+File to: [public/static/images/profile.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\parsa\OneDrive\Documents\GitHub\im-parsa.github.io\node_modules\mozjpeg\vendor\cjpeg.exe -quality 70 -outfile public/static/images/profile.jpg images/profile.jpg
+Unrecognized input file format --- perhaps you need -targa

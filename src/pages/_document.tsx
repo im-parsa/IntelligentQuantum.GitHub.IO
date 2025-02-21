@@ -23,21 +23,21 @@ class MyDocument extends Document
 
                     <meta name='language' content='en'/>
                     <meta name='Classification' content='Portfolio'/>
-                    <meta name='subject' content='Parsa Firoozi Full-Stack Developer & Web3 Product Manager'/>
-                    <meta name='description' content="Parsa Firoozi Full-Stack Developer & Web3 Product Manager. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='Parsa Firoozi, im-parsa, Parsa Firoozi Portfolio, Full-Stack Developer, Iran Shiraz, JavaScript, TypeScript, Graphic Designer, Web3 Product'/>
+                    <meta name='subject' content='Parsa Firoozi - Full Stack Developer & Web3 Product Manager'/>
+                    <meta name='description' content="Parsa Firoozi - Full Stack Developer & Web3 Product Manager. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
+                    <meta name='keywords' content='Parsa Firoozi, im-parsa, Parsa Firoozi Portfolio, Full Stack Developer, Iran Shiraz, JavaScript, TypeScript, Product Manager, Graphic Designer, Web3 Product'/>
                     <meta name='author' content='Parsa Firoozi'/>
 
                     <meta property='og:type' content='website'/>
                     <meta property='og:url' content='https://parsa-firoozi.ir/'/>
                     <meta property='og:title' content='Parsa Firoozi'/>
-                    <meta property='og:description' content='Parsa Firoozi Full-Stack Developer & Web3 Product Manager'/>
+                    <meta property='og:description' content='Parsa Firoozi - Full Stack Developer & Web3 Product Manager'/>
                     <meta property='og:image' content='https://parsa-firoozi.ir/static/images/favicon.png'/>
 
                     <meta property='twitter:card'/>
                     <meta property='twitter:url' content='https://parsa-firoozi.ir/'/>
                     <meta property='twitter:title' content='Parsa Firoozi'/>
-                    <meta property='twitter:description' content='Parsa Firoozi Full-Stack Developer & Web3 Product Manager'/>
+                    <meta property='twitter:description' content='Parsa Firoozi - Full Stack Developer & Web3 Product Manager'/>
                     <meta property='twitter:image' content='https://parsa-firoozi.ir/static/images/favicon.png'/>
 
                     <Script
@@ -68,7 +68,7 @@ class MyDocument extends Document
                                             name: 'Parsa Firoozi'
                                         },
                                     email: 'mailto:hello@parsa-firoozi.ir',
-                                    image: 'https://parsa-firoozi.ir/static/images/profile.jpg',
+                                    image: 'https://parsa-firoozi.ir/static/images/profile.png',
                                     jobTitle: 'developer',
                                     url: 'https://parsa-firoozi.ir'
                                 }

@@ -7,18 +7,18 @@
         "my_name": "Parsa Firoozi",
         "my_skills":
         [
-            "Full-Stack Developer",
-            "Web3 Product Manager"
+            "Full Stack Developer",
+            "Product Manager"
         ],
         "header":
         {
             "titles":
             [
-                "Parsa Firoozi — Full-Stack Developer & Web3 Product Manager"
+                "Parsa Firoozi — Full Stack Developer & Product Manager"
             ],
             "descriptions":
             [
-                "Parsa Firoozi Full-Stack Developer & Web3 Product Manager. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."
+                "Parsa Firoozi - Full Stack Developer & Product Manager. Parsa Firoozi focuses on JavaScript-related technologies like Typescript, NodeJS and React. Parsa Firoozi is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."
             ]
         },
         "currency": "$",
@@ -30,7 +30,7 @@
             "I am running full node blockchain core.",
             "I develop exchange and wallet applications.",
             "I build games with Unreal, Three.js and Unity engines.",
-            "I manage web3 products."
+            "I manage products."
         ],
         "technologies":
         {
@@ -148,7 +148,7 @@
         },
         "titles":
         [
-            "What do i make Or am i?",
+            "What am i doing?",
             "Services",
             "Contact Information",
             "Get in Touch",
@@ -170,8 +170,7 @@
             "All Categories",
             "Web Development",
             "App Development",
-            "Robot Development",
-            "Graphic Design"
+            "Robot Development"
         ],
         "my_blogs":
         [
@@ -228,13 +227,7 @@
                 "id": 3,
                 "title": "Music",
                 "type": "music",
-                "description": "An arrangement of sounds having melody, rhythm, and usually harmony. I think music is the most beautiful human art. Music has always been relaxing for me and I get a lot of energy with faster rhythms.\nWhen working, nothing is more effective than a good music and I always have a music playing in the background because it makes me feel so good. Finally, I must say that my favorite singer is Shadmehr Aghili and my favorite music is the song KOOH_PLAYER by Shadmehr Aghili."
-            },
-            {
-                "id": 9,
-                "title": "Book",
-                "type": "book",
-                "description": "In my free time I very often read books. My favorite authors are Colleen Hoover and James Clear who have written wonderful books and have won several awards. I love self-help books and my favorite is Limitless by Jim Kwik."
+                "description": "An arrangement of sounds having melody, rhythm, and usually harmony. I think music is the most beautiful human art. Music has always been relaxing for me and I get a lot of energy with faster rhythms.\nWhen working, nothing is more effective than a good music and I always have a music playing in the background because it makes me feel so good. Finally, I must say that my favorite singers are The Weeknd, Post Malone & Travis Scott."
             },
             {
                 "id": 4,
@@ -315,20 +308,12 @@
         "my_projects":
         [
             {
-                "id": 0,
-                "title": "Paraffin",
+                "id": 25236,
+                "title": "FirstResume",
                 "tag": "web_development",
-                "description": "Paraffin platform for teaching and learning with great content in various categories.",
-                "link": "https://paraffin-tutorials.ir",
-                "image": "/static/images/projects/web-paraffin.png"
-            },
-            {
-                "id": 1,
-                "title": "Discordly City",
-                "tag": "web_development",
-                "description": "Grow your Discord Business in Discordly City You can add your Bot or Server to grow your business and read our blogs to be updated from all discord updates and tricks.",
-                "link": "https://discordly.city",
-                "image": "/static/images/projects/web-discordly-city.png"
+                "description": "FirstResumeAI is an AI-powered resume builder that aims to help you land your dream job in one click. To make your job applications 10x more effective and 100x faster. But that's just the beginning of what we do.",
+                "link": "https://firstresume.ai/",
+                "image": "/static/images/projects/web-fr.png"
             },
             {
                 "id": 2,
@@ -339,36 +324,60 @@
                 "image": "/static/images/projects/web-mrcheat.png"
             },
             {
-                "id": 6,
-                "title": "Coineie",
+                "id": 658412185,
+                "title": "Genesis RP",
                 "tag": "web_development",
-                "description": "At CoinEIE, we believe that everyone should be able to earn, hold, spend, share and give their money!",
-                "link": "https://coineie.com/",
-                "image": "/static/images/projects/web-coineie.png"
+                "description": "At Genesis, we value your ideas and visions, and we are committed to bringing them closer to reality. This is a place where creativity knows no bounds. ",
+                "link": "https://genesisrp.ir/en",
+                "image": "/static/images/projects/web-genesis_rp.png"
+            },
+            {
+                "id": 6,
+                "title": "SoDark",
+                "tag": "web_development",
+                "description": "SoDark is a project from the heart of darkness, we are all members of darkness. With our creative team, we try to create a strong brand and find our community in the dark. Join SoDark to embark on an exciting journey in the dark.",
+                "link": "https://sodark.xyz/",
+                "image": "/static/images/projects/web-sodark.png"
             },
             {
                 "id": 3,
-                "title": "Mimic Expo",
+                "title": "BotBar",
                 "tag": "web_development",
-                "description": "In Mimic Expo, you can observe various events. Be with different people in different positions and gain. The most experience in a metaverse way.",
-                "link": "https://mimicexpo.com/",
-                "image": "/static/images/projects/web-mimicexpo.png"
+                "description": "barGame is revolutionizing the gaming experience with its innovative role-based platform. Players are immersed in a captivating fantasy world where they can not only enhance their gaming collections but also foster active communities. ",
+                "link": "https://botbar.xyz/",
+                "image": "/static/images/projects/web-botbar.png"
             },
             {
                 "id": 4,
-                "title": "Mimic Place",
+                "title": "Error Shop",
                 "tag": "web_development",
-                "description": "Multichain DeFi Web 3.0 Ecosystem. The next generation gaming ecosystem for ITOs and NFT market.",
-                "link": "https://mimic.place/",
-                "image": "/static/images/projects/web-mimicplace.png"
+                "description": "Do all the services and in-app purchases of the application as quickly as possible with Arrowshop, our fast and professional team is ready for your orders.",
+                "link": "https://error-shop.ir/",
+                "image": "/static/images/projects/web-error_shop.png"
             },
             {
-                "id": 5,
-                "title": "Mimic Metaverse School",
+                "id": 4,
+                "title": "Mohem",
                 "tag": "web_development",
-                "description": "The first metaverse school in the world. Whether you are looking for language courses, esoteric courses, computer courses, or any other specialized courses, Mimic school has a wide range of courses available for all age ranges based on metaverse platform.",
-                "link": "https://mimicmetaschool.com/",
-                "image": "/static/images/projects/web-mimicschool.png"
+                "description": "We answer all your career and educational information needs at Moham Group. We are proud to provide comprehensive, reliable and up-to-date information on the management, accounting and finance website.",
+                "link": "https://mohem.org/",
+                "image": "/static/images/projects/web-mohem.png"
+            },
+            {
+                "id": 0,
+                "title": "Paraffin",
+                "tag": "web_development",
+                "description": "Paraffin platform for teaching and learning with great content in various categories.",
+                "link": "https://github.com/paraffin-tutorials",
+                "image": "/static/images/projects/web-paraffin.png"
+            },
+            {
+                "id": 1,
+                "title": "Discordly City",
+                "tag": "web_development",
+                "description": "Grow your Discord Business in Discordly City You can add your Bot or Server to grow your business and read our blogs to be updated from all discord updates and tricks.",
+                "link": "https://github.com/DiscordlyCity",
+                "image": "/static/images/projects/web-discordly-city.png"
             },
             {
                 "id": 7,
@@ -393,14 +402,6 @@
                 "description": "The Infinity Roleplay server is one of the newest and best RP servers in Iran at the moment, which is managed by experienced people on the FiveM platform.",
                 "link": "https://infinityrp.ir",
                 "image": "/static/images/projects/web-infinity.png"
-            },
-            {
-                "id": 82,
-                "title": "Papelo",
-                "tag": "web_development",
-                "description": "The open source project Papelo is a complete website with blog, shop, landing and about us pages.",
-                "link": "https://github.com/im-parsa/Papelo-Client",
-                "image": "/static/images/projects/web-papelo.png"
             },
             {
                 "id": 10,
@@ -431,7 +432,7 @@
                 "title": "Nava",
                 "tag": "web_development",
                 "description": "First and best Persian language music and video player with quality and support for all formats along with Discord RPC.",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/web-nava.png"
             },
             {
@@ -439,7 +440,7 @@
                 "title": "random-pic.js",
                 "tag": "web_development",
                 "description": "Website and module for receiving random images in different categories and the ability to size and set limits and restrictions.",
-                "link": "https://random-picjs.herokuapp.com",
+                "link": "https://www.npmjs.com/package/random-pic.js",
                 "image": "/static/images/projects/web-random-pic-js.png"
             },
             {
@@ -449,14 +450,6 @@
                 "description": "The first open-source persian Discord API with high and unique quality and speed.",
                 "link": "https://github.com/im-parsa/persian-discord-api",
                 "image": "/static/images/projects/web-pda.png"
-            },
-            {
-                "id": 14,
-                "title": "Personal Website",
-                "tag": "web_development",
-                "description": "Open source personal website with full capabilities to provide resume and introduction.",
-                "link": "https://github.com/im-parsa/my-personal-website",
-                "image": "/static/images/projects/web-parsa.png"
             },
             {
                 "id": 15,
@@ -479,7 +472,7 @@
                 "title": "Nava Video Player",
                 "tag": "app_development",
                 "description": "Video player with the support of all files, the ability of RCC, dedicated discord, etc ...",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-video-player.png"
             },
             {
@@ -487,7 +480,7 @@
                 "title": "Nava Music Player",
                 "tag": "app_development",
                 "description": "Music player with the support of all files, the ability of RPC, dedicated discord, etc ...",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-music-player.png"
             }
         ]
@@ -500,18 +493,18 @@
         "my_name": "Parsa Firoozi",
         "my_skills":
         [
-            "Full-Stack Entwickler",
-            "Grafikdesigner"
+            "Full Stack Entwickler",
+            "Produktmanager"
         ],
         "header":
         {
             "titles":
             [
-                "Parsa Firoozi — Full-Stack Entwickler & Grafikdesigner"
+                "Parsa Firoozi — Full Stack Entwickler & Grafikdesigner"
             ],
             "descriptions":
             [
-                "Parsa Firoozi Full-Stack-Entwickler und Grafikdesigner. Parsa Firoozi konzentriert sich auf JavaScript-bezogene Technologien wie Typescript, NodeJS und React. Parsa Firoozi ist auch eine erfahrene Grafikdesignerin und beherrscht die Software Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro und Gimp."
+                "Parsa Firoozi - Full Stack-Entwickler und Grafikdesigner. Parsa Firoozi konzentriert sich auf JavaScript-bezogene Technologien wie Typescript, NodeJS und React. Parsa Firoozi ist auch eine erfahrene Grafikdesignerin und beherrscht die Software Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro und Gimp."
             ]
         },
         "technologies":
@@ -640,7 +633,7 @@
         },
         "titles":
         [
-            "Was mache ich und wer bin ich?",
+            "Was tue ich?",
             "Dienstleistungen",
             "Kontakt Informationen",
             "In Kontakt Kommen",
@@ -705,8 +698,7 @@
             "Alle Kategorien",
             "Web Entwicklung",
             "App Entwicklung",
-            "Roboter Entwicklung",
-            "Grafik Design"
+            "Roboter Entwicklung"
         ],
         "my_hobbies":
         [
@@ -720,13 +712,7 @@
                 "id": 3,
                 "title": "Musik",
                 "type": "music",
-                "description": "Eine Anordnung von Klängen mit Melodie, Rhythmus und normalerweise Harmonie. Ich denke, Musik ist die schönste menschliche Kunst. Musik war für mich schon immer entspannend und ich bekomme viel Energie mit schnelleren Rhythmen. Bei der Arbeit ist nichts effektiver als gute Musik und ich habe immer eine Musik im Hintergrund, weil es mir so gut tut. Abschließend muss ich sagen, dass mein Lieblingssänger Shadmehr Aghili ist und meine Lieblingsmusik das Lied KOOH_PLAYER von Shadmehr Aghili ist."
-            },
-            {
-                "id": 9,
-                "title": "Buck",
-                "type": "book",
-                "description": "In meiner Freizeit lese ich sehr oft Bücher. Meine Lieblingsautoren sind Colleen Hoover und James Clear, die wunderbare Bücher geschrieben und mehrere Preise gewonnen haben. Ich liebe Selbsthilfebücher und mein Favorit ist Limitless von Jim Kwik."
+                "description": "Eine Anordnung von Klängen mit Melodie, Rhythmus und normalerweise Harmonie. Ich denke, Musik ist die schönste menschliche Kunst. Musik war für mich schon immer entspannend und ich bekomme viel Energie mit schnelleren Rhythmen. Bei der Arbeit ist nichts effektiver als gute Musik und ich habe immer eine Musik im Hintergrund, weil es mir so gut tut. Abschließend muss ich sagen, dass mein Lieblingssänger The Weeknd, Post Malone & Travis Scott ist."
             },
             {
                 "id": 4,
@@ -808,10 +794,66 @@
         [
             {
                 "id": 0,
+                "title": "FirstResume",
+                "tag": "web_development",
+                "description": "FirstResumeAI ist ein KI-gestützter Lebenslaufersteller, der Ihnen helfen soll, Ihren Traumjob mit nur einem Klick zu bekommen. Es macht Ihre Bewerbungen 10-mal effektiver und 100-mal schneller. Aber das ist erst der Anfang dessen, was wir tun.",
+                "link": "https://firstresume.ai/",
+                "image": "/static/images/projects/web-fr.png"
+            },
+            {
+                "id": 1,
+                "title": "MrCheat",
+                "tag": "web_development",
+                "description": "Derzeit sollte Mr. Cheat als ein Shop-Website betrachtet werden, da es neben Cheat-Aktivitäten auch Produkte im Zusammenhang mit Steam und Accounts anbietet.",
+                "link": "https://mrcheat.cc/",
+                "image": "/static/images/projects/web-mrcheat.png"
+            },
+            {
+                "id": 2,
+                "title": "Genesis RP",
+                "tag": "web_development",
+                "description": "Bei Genesis schätzen wir Ihre Ideen und Visionen und sind bestrebt, sie der Realität näher zu bringen. Dies ist ein Ort, an dem Kreativität keine Grenzen kennt.",
+                "link": "https://genesisrp.ir/en",
+                "image": "/static/images/projects/web-genesis_rp.png"
+            },
+            {
+                "id": 6,
+                "title": "SoDark",
+                "tag": "web_development",
+                "description": "SoDark ist ein Projekt aus dem Herzen der Dunkelheit, wir sind alle Mitglieder der Dunkelheit. Mit unserem Kreativteam versuchen wir, eine starke Marke zu schaffen und unsere Community im Dunkeln zu finden. Begleite SoDark und begib dich auf eine spannende Reise in die Dunkelheit.",
+                "link": "https://sodark.xyz/",
+                "image": "/static/images/projects/web-sodark.png"
+            },
+            {
+                "id": 3,
+                "title": "BotBar",
+                "tag": "web_development",
+                "description": "BarGame revolutioniert das Gaming-Erlebnis mit seiner innovativen rollenbasierten Plattform. Spieler tauchen in eine fesselnde Fantasiewelt ein, in der sie nicht nur ihre Spielesammlung erweitern, sondern auch aktive Communities aufbauen können.",
+                "link": "https://botbar.xyz/",
+                "image": "/static/images/projects/web-botbar.png"
+            },
+            {
+                "id": 4,
+                "title": "Error Shop",
+                "tag": "web_development",
+                "description": "Erledigen Sie alle Dienste und In-App-Käufe der Anwendung so schnell wie möglich mit Arrowshop, unser schnelles und professionelles Team steht für Ihre Bestellungen bereit.",
+                "link": "https://error-shop.ir/",
+                "image": "/static/images/projects/web-error_shop.png"
+            },
+            {
+                "id": 4,
+                "title": "Mohem",
+                "tag": "web_development",
+                "description": "Wir bei der Moham Group beantworten alle Ihre Fragen zu Karriere und Ausbildung. Wir sind stolz darauf, Ihnen auf der Website für Management, Buchhaltung und Finanzen umfassende, zuverlässige und aktuelle Informationen bieten zu können.",
+                "link": "https://mohem.org/",
+                "image": "/static/images/projects/web-mohem.png"
+            },
+            {
+                "id": 0,
                 "title": "Paraffin",
                 "tag": "web_development",
                 "description": "Paraffin Plattform zum Lehren und Lernen mit tollen Inhalten in verschiedenen Kategorien.",
-                "link": "https://paraffin-tutorials.ir",
+                "link": "https://github.com/paraffin-tutorials",
                 "image": "/static/images/projects/web-paraffin.png"
             },
             {
@@ -819,48 +861,8 @@
                 "title": "Discordly City",
                 "tag": "web_development",
                 "description": "Erweitern Sie Ihr Discord-Geschäft in Discordly City Sie können Ihren Bot oder Server hinzufügen, um Ihr Geschäft auszubauen, und unsere Blogs lesen, um über alle Discord-Updates und Tricks auf dem Laufenden zu bleiben.",
-                "link": "https://discordly.city",
+                "link": "https://github.com/DiscordlyCity",
                 "image": "/static/images/projects/web-discordly-city.png"
-            },
-            {
-                "id": 2,
-                "title": "MrCheat",
-                "tag": "web_development",
-                "description": "Derzeit sollte Mr. Cheat als Shop-Website betrachtet werden, da wir zusätzlich zu den Cheat-Aktivitäten Produkte im Zusammenhang mit Steam und Konten anbieten werden.",
-                "link": "https://mrcheat.cc/",
-                "image": "/static/images/projects/web-mrcheat.png"
-            },
-            {
-                "id": 6,
-                "title": "Coineie",
-                "tag": "web_development",
-                "description": "Wir bei CoinEIE glauben, dass jeder in der Lage sein sollte, sein Geld zu verdienen, zu halten, auszugeben, zu teilen und zu geben!",
-                "link": "https://coineie.com/",
-                "image": "/static/images/projects/web-coineie.png"
-            },
-            {
-                "id": 3,
-                "title": "Mimic Expo",
-                "tag": "web_development",
-                "description": "In der Mimic Expo können Sie verschiedene Veranstaltungen beobachten. Sei mit verschiedenen Menschen in verschiedenen Positionen und gewinne. die meiste Erfahrung auf metaverse Weise.",
-                "link": "https://mimicexpo.com/",
-                "image": "/static/images/projects/web-mimicexpo.png"
-            },
-            {
-                "id": 4,
-                "title": "Mimic Place",
-                "tag": "web_development",
-                "description": "Multichain-DeFi-Web-3.0-Ökosystem. Das Gaming-Ökosystem der nächsten Generation für den ITOs- und NFT-Markt.",
-                "link": "https://mimic.place/",
-                "image": "/static/images/projects/web-mimicplace.png"
-            },
-            {
-                "id": 5,
-                "title": "Mimic Metaverse School",
-                "tag": "web_development",
-                "description": "Die erste Metaverse-Schule der Welt. Egal, ob Sie nach Sprachkursen, Esoterikkursen, Computerkursen oder anderen Spezialkursen suchen, die Mimic School bietet basierend auf der Metaverse-Plattform eine breite Palette von Kursen für alle Altersgruppen an.",
-                "link": "https://mimicmetaschool.com/",
-                "image": "/static/images/projects/web-mimicschool.png"
             },
             {
                 "id": 7,
@@ -885,14 +887,6 @@
                 "description": "Der Infinity Roleplay-Server ist derzeit einer der neuesten und besten RP-Server im Iran, der von erfahrenen Personen auf der FiveM-Plattform verwaltet wird.",
                 "link": "https://infinityrp.ir",
                 "image": "/static/images/projects/web-infinity.png"
-            },
-            {
-                "id": 82,
-                "title": "Papelo",
-                "tag": "web_development",
-                "description": "Das Open-Source-Projekt Papelo ist eine komplette Website mit Blog-, Shop-, Landing- und Über-uns-Seiten.",
-                "link": "https://github.com/im-parsa/Papelo-Client",
-                "image": "/static/images/projects/web-papelo.png"
             },
             {
                 "id": 10,
@@ -923,7 +917,7 @@
                 "title": "Nava",
                 "tag": "web_development",
                 "description": "Erster und bester Musik- und Videoplayer in persischer Sprache mit Qualität und Unterstützung für alle Formate zusammen mit Discord RPC.",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/web-nava.png"
             },
             {
@@ -931,7 +925,7 @@
                 "title": "random-pic.js",
                 "tag": "web_development",
                 "description": "Website und Modul zum Empfangen zufälliger Bilder in verschiedenen Kategorien und die Möglichkeit, die Größe zu bestimmen und Grenzen und Einschränkungen festzulegen.",
-                "link": "https://random-picjs.herokuapp.com",
+                "link": "https://www.npmjs.com/package/random-pic.js",
                 "image": "/static/images/projects/web-random-pic-js.png"
             },
             {
@@ -941,14 +935,6 @@
                 "description": "Die erste persische Open-Source-Discord-API mit hoher und einzigartiger Qualität und Geschwindigkeit.",
                 "link": "https://github.com/im-parsa/persian-discord-api",
                 "image": "/static/images/projects/web-pda.png"
-            },
-            {
-                "id": 14,
-                "title": "Persönliche Webseite",
-                "tag": "web_development",
-                "description": "Persönliche Open-Source-Website mit allen Funktionen zur Bereitstellung von Lebensläufen und Einführungen.",
-                "link": "https://github.com/im-parsa/my-personal-website",
-                "image": "/static/images/projects/web-parsa.png"
             },
             {
                 "id": 15,
@@ -971,7 +957,7 @@
                 "title": "Nava Video Player",
                 "tag": "app_development",
                 "description": "Videoplayer mit Unterstützung aller Dateien, RCC-Fähigkeit, dedizierter Zwietracht usw.",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-video-player.png"
             },
             {
@@ -979,7 +965,7 @@
                 "title": "Nava Music Player",
                 "tag": "app_development",
                 "description": "Musikplayer mit Unterstützung aller Dateien, RPC-Fähigkeit, dedizierter Zwietracht usw.",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-music-player.png"
             }
         ]
@@ -993,7 +979,7 @@
         "my_skills":
         [
             "توسعه دهنده فول-استک",
-            "طراح گرافیک"
+            "مدیر پروژه"
         ],
         "header":
         {
@@ -1132,7 +1118,7 @@
         },
         "titles":
         [
-            "من کی هستم و چکار میکنم؟",
+            "من چکار میکنم؟",
             "خدمات",
             "اطلاعات تماس",
             "با من در تماس باش",
@@ -1154,8 +1140,7 @@
             "تمام دسته بندی ها",
             "توسعه وب",
             "توسعه اپلیکیشن",
-            "توسعه ربات",
-            "طراحی گرافیک"
+            "توسعه ربات"
         ],
         "my_blogs":
         [
@@ -1202,13 +1187,7 @@
                 "id": 3,
                 "title": "موسیقی",
                 "type": "music",
-                "description": "بنظر من موسیقی زیبا ترین هنر انسان است. موسیقی همیشه برای من آرامش بخش بوده و هست و با ریتم های سریع تر انرژی زیادی میگیرم.\nدر هنگام کار هیچ چیز اندازه یک موسیقی خوب تاثیرگذار نیست و من همیشه یک موسیقی در بک گراندم در حال اجرا میگذارم چون حس خیلی خوبی بهم میده. در آخر باید بگم خواننده مورد علاقه من شادمهر عقیلی و موزیک مورد علاقم آهنگ KOOH_PLAYER از شادمهر عقیلی هست."
-            },
-            {
-                "id": 9,
-                "title": "کتاب",
-                "type": "book",
-                "description": "در اوقات فراغتم اغلب کتاب می خوانم. نویسندگان مورد علاقه من کالین هوور و جیمز کلیر هستند که کتاب های فوق العاده ای نوشته اند و جوایز متعددی را برنده شده اند. من عاشق کتاب های خودیاری هستم و مورد علاقه من Limitless نوشته جیم کویک است."
+                "description": "بنظر من موسیقی زیبا ترین هنر انسان است. موسیقی همیشه برای من آرامش بخش بوده و هست و با ریتم های سریع تر انرژی زیادی میگیرم.\nدر هنگام کار هیچ چیز اندازه یک موسیقی خوب تاثیرگذار نیست و من همیشه یک موسیقی در بک گراندم در حال اجرا میگذارم چون حس خیلی خوبی بهم میده. در آخر باید بگم خواننده مورد علاقه من دویکند، پست ملن و ترویس اسکات هست."
             },
             {
                 "id": 4,
@@ -1290,10 +1269,66 @@
         [
             {
                 "id": 0,
-                "title": "Paraffin",
+                "title": "FirstResume",
+                "tag": "web_development",
+                "description": "FirstResumeAI یک سازنده رزومه مبتنی بر هوش مصنوعی است که هدف آن کمک به شما برای دریافت شغل رؤیایی‌تان تنها با یک کلیک است. این ابزار درخواست‌های شغلی را ۱۰ برابر مؤثرتر و ۱۰۰ برابر سریع‌تر می‌کند. اما این تنها آغاز کار ماست.",
+                "link": "https://firstresume.ai/",
+                "image": "/static/images/projects/web-fr.png"
+            },
+            {
+                "id": 1,
+                "title": "MrCheat",
+                "tag": "web_development",
+                "description": "در حال حاضر، Mr. Cheat به عنوان یک وب‌سایت فروشگاهی در نظر گرفته می‌شود، زیرا علاوه بر فعالیت‌های مربوط به چیت، محصولات مرتبط با Steam و حساب‌های کاربری را نیز ارائه می‌دهد.",
+                "link": "https://mrcheat.cc/",
+                "image": "/static/images/projects/web-mrcheat.png"
+            },
+            {
+                "id": 2,
+                "title": "Genesis RP",
+                "tag": "web_development",
+                "description": "در Genesis، ما به ایده‌ها و دیدگاه‌های شما ارزش می‌دهیم و متعهد هستیم که آن‌ها را به واقعیت نزدیک‌تر کنیم. اینجا جایی است که خلاقیت هیچ محدودیتی ندارد.",
+                "link": "https://genesisrp.ir/en",
+                "image": "/static/images/projects/web-genesis_rp.png"
+            },
+            {
+                "id": 6,
+                "title": "SoDark",
+                "tag": "web_development",
+                "description": "SoDark پروژه ای از دل تاریکی است، ما همه اعضای تاریکی هستیم. با تیم خلاق خود سعی می کنیم یک برند قوی ایجاد کنیم و جامعه خود را در تاریکی پیدا کنیم. به SoDark بپیوندید تا سفری هیجان انگیز را در تاریکی آغاز کنید.",
+                "link": "https://sodark.xyz/",
+                "image": "/static/images/projects/web-sodark.png"
+            },
+            {
+                "id": 3,
+                "title": "BotBar",
+                "tag": "web_development",
+                "description": "barGame با پلتفرم مبتکرانه نقش محور خود تجربه بازی را متحول می کند. بازیکنان در یک دنیای فانتزی فریبنده غوطه ور هستند که در آن نه تنها می توانند مجموعه بازی های خود را ارتقا دهند بلکه می توانند جوامع فعال را نیز پرورش دهند.",
+                "link": "https://botbar.xyz/",
+                "image": "/static/images/projects/web-botbar.png"
+            },
+            {
+                "id": 4,
+                "title": "ارور شاپ",
+                "tag": "web_development",
+                "description": "با ارورشاپ در سریع ترین زمان ممکن تمامی خدمات و خرید های درون برنامه ای اپلیکیشن هارو انجام بده، تیم پرسرعت و حرفه ای ما آماده سفارش های شما است.",
+                "link": "https://error-shop.ir/",
+                "image": "/static/images/projects/web-error_shop.png"
+            },
+            {
+                "id": 4,
+                "title": "محم",
+                "tag": "web_development",
+                "description": "ما در مجموعه محم به تمام نیاز\u200Cهای اطلاعاتی شغلی و تحصیلی شما پاسخ میدهیم. ما با افتخار در وب\u200Cسایت مدیریت، حسابداری و مالی به ارائه اطلاعات جامع، معتبر و بروز در این زمینه\u200Cها متعهدیم.",
+                "link": "https://mohem.org/",
+                "image": "/static/images/projects/web-mohem.png"
+            },
+            {
+                "id": 0,
+                "title": "پارافین",
                 "tag": "web_development",
                 "description": "رسانه ای مرجع برای یادگیری، یاد دادن و کسب درآمد در پارافین شما آموزش هایی با دامنه ای گسترده در دسترس دارید که میتوانید به صورت رایگان از آنها استفاده کنید.",
-                "link": "https://paraffin-tutorials.ir",
+                "link": "https://github.com/paraffin-tutorials",
                 "image": "/static/images/projects/web-paraffin.png"
             },
             {
@@ -1301,52 +1336,12 @@
                 "title": "Discordly City",
                 "tag": "web_development",
                 "description": "کسب و کار Discord خود را در Discords City رشد دهید می\u200Cتوانید ربات یا سرور خود را برای رشد کسب\u200Cوکار خود اضافه کنید و وبلاگ\u200Cهای ما را بخوانید تا از همه به\u200Cروزرسانی\u200Cها و ترفندهای Discord به\u200Cروز شوید.",
-                "link": "https://discordly.city",
+                "link": "https://github.com/DiscordlyCity",
                 "image": "/static/images/projects/web-discordly-city.png"
             },
             {
-                "id": 2,
-                "title": "MrCheat",
-                "tag": "web_development",
-                "description": "در حال حاضر مستر چیت را باید یک وب سایت فروشگاه در نظر گرفت زیرا علاوه بر فعالیت های چیت ، محصولات مرتبط با استیم و اکانت قرار خواهیم داد.",
-                "link": "https://mrcheat.cc/",
-                "image": "/static/images/projects/web-mrcheat.png"
-            },
-            {
-                "id": 6,
-                "title": "Coineie",
-                "tag": "web_development",
-                "description": "در CoinEIE، ما معتقدیم که همه باید بتوانند درآمد داشته باشند، نگه دارند، خرج کنند، به اشتراک بگذارند و پول خود را بدهند!",
-                "link": "https://coineie.com/",
-                "image": "/static/images/projects/web-coineie.png"
-            },
-            {
-                "id": 3,
-                "title": "Mimic Expo",
-                "tag": "web_development",
-                "description": "در Mimic Expo می توانید رویدادهای مختلفی را مشاهده کنید. با افراد مختلف در موقعیت های مختلف باشید و به دست آورید. بیشترین تجربه به روش متاورس.",
-                "link": "https://mimicexpo.com/",
-                "image": "/static/images/projects/web-mimicexpo.png"
-            },
-            {
-                "id": 4,
-                "title": "Mimic Place",
-                "tag": "web_development",
-                "description": "اکوسیستم Multichain DeFi Web 3.0. نسل بعدی اکوسیستم بازی برای ITOها و بازار NFT.",
-                "link": "https://mimic.place/",
-                "image": "/static/images/projects/web-mimicplace.png"
-            },
-            {
-                "id": 5,
-                "title": "Mimic Metaverse School",
-                "tag": "web_development",
-                "description": "اولین مدرسه متاورس در جهان. فرقی نمی\u200Cکند به دنبال دوره\u200Cهای زبان، دوره\u200Cهای باطنی، دوره\u200Cهای کامپیوتر یا هر دوره تخصصی دیگری باشید، مدرسه Mimic طیف گسترده\u200Cای از دوره\u200Cها را برای همه گروه\u200Cهای سنی بر اساس پلتفرم متاورس دارد.",
-                "link": "https://mimicmetaschool.com/",
-                "image": "/static/images/projects/web-mimicschool.png"
-            },
-            {
                 "id": 7,
-                "title": "Bigo Top",
+                "title": "بیگو تاپ",
                 "tag": "web_development",
                 "description": "بیگو تاپ امن ترین و سریع ترین فروشگاه اینترنتی خرید الماس بیگولایو و لایکی که کاملا به صورت اتوماتیک در اختیار مشتریان قرار گرفته است.",
                 "link": "https://bigotop.com/",
@@ -1354,7 +1349,7 @@
             },
             {
                 "id": 8,
-                "title": "Skyro",
+                "title": "اسکای‌رو",
                 "tag": "web_development",
                 "description": "آژانس خدمات مسافرتی اسکایرو همیشه به روز و پیشرو است. ما پیمان بسته ایم تا تجربه سفر شما را دلپذیر و زیبا کنیم.",
                 "link": "https://skyro.ir",
@@ -1369,16 +1364,8 @@
                 "image": "/static/images/projects/web-infinity.png"
             },
             {
-                "id": 82,
-                "title": "Papelo",
-                "tag": "web_development",
-                "description": "پروژه اوپن‌سورس پاپلو یک وبسایت کامل دارای صفحات بلاگ، فروشگاه، لندینگ و درباره‌ما.",
-                "link": "https://github.com/im-parsa/Papelo-Client",
-                "image": "/static/images/projects/web-papelo.png"
-            },
-            {
                 "id": 10,
-                "title": "Setar",
+                "title": "ستار",
                 "tag": "robot_development",
                 "description": "سازمانی که توسط توسعه دهندگانی ساخته شده است که پتانسیل آن را دارند که چیزی بیشتر از یک توسعه دهندگان ربات ناسازگاری معمولی باشند، ما اینجا هستیم تا دانش بیشتری به شما بدهیم.",
                 "link": "https://3tarbot.ir/",
@@ -1402,10 +1389,10 @@
             },
             {
                 "id": 11,
-                "title": "Nava",
+                "title": "نوآ",
                 "tag": "web_development",
                 "description": "اولین و بهترین پخش کننده موزیک و ویدیو فارسی زبان با کیفیت و پشتیبانی از تمامی فرمت ها به همراه Discord RPC.",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/web-nava.png"
             },
             {
@@ -1413,7 +1400,7 @@
                 "title": "random-pic.js",
                 "tag": "web_development",
                 "description": "وب سایت و ماژول دریافت تصاویر تصادفی در دسته بندی های مختلف و قابلیت اندازه گیری و تعیین محدودیت و محدودیت.",
-                "link": "https://random-picjs.herokuapp.com",
+                "link": "https://www.npmjs.com/package/random-pic.js",
                 "image": "/static/images/projects/web-random-pic-js.png"
             },
             {
@@ -1425,16 +1412,8 @@
                 "image": "/static/images/projects/web-pda.png"
             },
             {
-                "id": 14,
-                "title": "Personal Website",
-                "tag": "web_development",
-                "description": "وب سایت شخصی منبع باز با داشتن قابلیت های کامل جهت ارائه رزومه و معرفی شخص.",
-                "link": "https://github.com/im-parsa/my-personal-website",
-                "image": "/static/images/projects/web-parsa.png"
-            },
-            {
                 "id": 15,
-                "title": "Personal Website",
+                "title": "وبسایت‌ شخصی",
                 "tag": "web_development",
                 "description": "وب سایت شخصی منبع باز با داشتن قابلیت های کامل جهت ارائه رزومه و معرفی شخص.",
                 "link": "https://shadmehr.info",
@@ -1450,18 +1429,18 @@
             },
             {
                 "id": 17,
-                "title": "Nava Video Player",
+                "title": "پخش‌کننده ویدیو نوآ",
                 "tag": "app_development",
                 "description": "پخش کننده ویدیو با پشتیبانی از تمامی فایل ها، قابلیت RCC، Discord اختصاصی و ...",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-video-player.png"
             },
             {
                 "id": 18,
-                "title": "Nava Music Player",
+                "title": "پخش‌کننده موزیک نوآ",
                 "tag": "app_development",
                 "description": "پخش کننده موسیقی با پشتیبانی از تمامی فایل ها، قابلیت RCC، Discord اختصاصی و ...",
-                "link": "https://nava-org.herokuapp.com",
+                "link": "https://github.com/Nava-ORG",
                 "image": "/static/images/projects/app-nava-music-player.png"
             }
         ]

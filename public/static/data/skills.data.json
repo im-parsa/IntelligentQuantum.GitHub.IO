@@ -2,34 +2,24 @@
     "items":
     [
         {
-            "id": 0,
-            "name": "HTML",
-            "progress": "95%"
-        },
-        {
-            "id": 1,
-            "name": "CSS",
-            "progress": "95%"
-        },
-        {
             "id": 2,
-            "name": "Javascript",
+            "name": "Javascript/Typescript",
             "progress": "90%"
         },
         {
-            "id": 3,
-            "name": "Typescript",
-            "progress": "85%"
-        },
-        {
             "id": 4,
-            "name": "C++",
-            "progress": "15%"
+            "name": "Solidity",
+            "progress": "60%"
         },
         {
             "id": 5,
-            "name": "Solidity",
-            "progress": "50%"
+            "name": "Python",
+            "progress": "25%"
+        },
+        {
+            "id": 6,
+            "name": "C++",
+            "progress": "15%"
         }
     ]
 }

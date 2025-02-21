@@ -10,7 +10,7 @@ import { BiCheck, BiDownload } from 'react-icons/bi';
 import { CircularProgressbar } from 'react-circular-progressbar';
 import { BsGithub, BsInstagram, BsLinkedin, BsYoutube, BsTwitter, BsFacebook } from 'react-icons/bs';
 
-import Profile from '../../../../public/static/images/profile.jpg';
+import Profile from '../../../../public/static/images/profile.png';
 
 import data from '../../../../public/static/data/data.json';
 

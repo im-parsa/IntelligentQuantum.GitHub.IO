@@ -77,7 +77,7 @@ const Home = ({ repositories, organizations }: Props) =>
                                 <span>
                                     <CountUp
                                         start={0}
-                                        end={99}
+                                        end={199}
                                         duration={5}
                                     />
                                 +
@@ -88,7 +88,7 @@ const Home = ({ repositories, organizations }: Props) =>
                                 <span>
                                     <CountUp
                                         start={0}
-                                        end={100}
+                                        end={200}
                                         duration={5}
                                     />
                                 +
@@ -99,7 +99,7 @@ const Home = ({ repositories, organizations }: Props) =>
                                 <span>
                                     <CountUp
                                         start={0}
-                                        end={5}
+                                        end={6}
                                         duration={5}
                                     />
                                 +

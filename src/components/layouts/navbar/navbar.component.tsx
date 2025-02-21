@@ -4,7 +4,7 @@ import { useRouter } from 'next/router';
 import { useDispatch } from 'react-redux';
 import { FaEllipsisV } from 'react-icons/fa';
 import React, { useEffect, useState} from 'react';
-import { BsCloudMoonFill, BsSunFill } from 'react-icons/bs';
+import {BsCloudMoonFill, BsCode, BsSunFill} from 'react-icons/bs';
 
 import type { IPage } from '../../../interfaces/page';
 import type { ITheme } from '../../../interfaces/theme';
@@ -134,11 +134,14 @@ const Navbar = ({ mobile }: Props) =>
                     </div>
                 </div>
                 <div className={stylesNav.navThemes}>
+                    <i onClick={() => handleTheme('matrix')} className={theme === 'matrix' ? stylesNav.navThemes__Active : ''}>
+                        <BsCode/>
+                    </i>
                     <i onClick={() => handleTheme('dim')} className={theme === 'dim' ? stylesNav.navThemes__Active : ''}>
-                        <BsCloudMoonFill />
+                        <BsCloudMoonFill/>
                     </i>
                     <i onClick={() => handleTheme('light')} className={theme === 'light' ? stylesNav.navThemes__Active : ''}>
-                        <BsSunFill />
+                        <BsSunFill/>
                     </i>
                 </div>
             </nav>
