@@ -1,4 +1,5 @@
-const next = require('nexconst { parse } = require('url');
+const next = require('next');
+const { parse } = require('url');
 const { createServer } = require('http');
 
 const hostname = process.env.HOST;
